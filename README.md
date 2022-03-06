@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ymanawat
 - 👀 I’m interested in Game Dev and AI & data science
-- 🌱 I’m currently learning godot & DSA with Python
-- 💞️ I’m looking to contribute on Godot or Blender, It will be great
+- 🌱 I’m currently learning godot & DSA with C++
+- 💞️ I’m love UI/UX designing
 - 📫 yogendramanawat@gmail.com
 
 <!---
