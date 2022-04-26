@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yogendramanawat@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PkB1KH2cSBAGEbfcKA9V6NGdeFKpGdh4/view?usp=sharing](https://drive.google.com/file/d/1PkB1KH2cSBAGEbfcKA9V6NGdeFKpGdh4/view?usp=sharing)
+- 📄 My CV [https://drive.google.com/file/d/1PkB1KH2cSBAGEbfcKA9V6NGdeFKpGdh4/view?usp=sharing](https://drive.google.com/file/d/1PkB1KH2cSBAGEbfcKA9V6NGdeFKpGdh4/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
