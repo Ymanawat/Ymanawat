@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogendra Manawat</h1>
-<h3 align="center">A passionate UI/UX Designer from India</h3>
+<h3 align="center">UI/UX Designer | Game Designer & Dev</h3>
 
 - 🔭 I’m currently working on **ARDOR**
 
